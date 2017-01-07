@@ -12,3 +12,8 @@ $ npm install
 
 launch the app
 npm run start
+
+view in browser
+localhost:7770
+
+Thanks
